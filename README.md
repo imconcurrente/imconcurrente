@@ -1,3 +1,5 @@
+💫 About Me:
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 - 👋 Hi, I’m @imconcurrente(Vedant)
 - 👀 I’m interested in  coding, web development and AI/ML.
 - 🌱 I’m currently learning Machine Learning(Deep Learning).
