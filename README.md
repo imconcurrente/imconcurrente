@@ -4,7 +4,7 @@ ________________________________________________________________________________
 - 👀 I’m interested in  coding, web development and AI/ML.
 - 🌱 I’m currently learning Machine Learning(Deep Learning).
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me https://www.linkedin.com/in/vedant-b-016314317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 📫 How to reach me : mevedantbhojne@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I have the ability to travel through my entire life.
 
